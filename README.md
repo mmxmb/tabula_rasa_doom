@@ -5,6 +5,8 @@ This project was completed during [CodeJam 2018 at McGill University](https://co
 
 # Description
 
+We've re-implemented a CNN used in the original article using TF Eager Execution and put an agent into a different environment called "Take Cover". See more detailed description on the Devpost page.
+
 # Tools and resources used
 
 - [Deep Q learning with Doom](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/Deep%20Q%20Learning/Doom/Deep%20Q%20learning%20with%20Doom.ipynb) article and notebook by [@simoninithomas](https://github.com/simoninithomas) was used heavily as a guide.
