@@ -1,6 +1,6 @@
 # Tabula Rasa Doom
 
-![godlike](https://raw.githubusercontent.com/LawnboyMax/tabula_rasa_doom/doom-god-mode.jpg)
+![godlike](https://github.com/LawnboyMax/tabula_rasa_doom/blob/master/doom-god-mode.jpg)
 
 An implementation of deep Q-learning neural network playing ViZDoom that uses TF Eager Execution :godmode:
 
